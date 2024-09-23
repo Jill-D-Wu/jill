@@ -1,1 +1,1 @@
-# This is Zeeshan, a coding indtructor.
+# This is Zeeshan, a coding instructor.
