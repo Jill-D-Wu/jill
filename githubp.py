@@ -4,6 +4,6 @@ if day=="good":
 elif day=="bad":
   print("Oh, sorry to hear that.")
 elif day=="neutral":
-  print("Okay then)
+  print("Okay then")
 else:
   print("That's not a valid answer.")
